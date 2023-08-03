@@ -1,0 +1,5 @@
+flask
+urllib3
+requests
+BeautifulSoup4
+pymongo
